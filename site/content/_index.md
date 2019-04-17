@@ -1,6 +1,6 @@
 ---
 title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Support sustainable farming while enjoying a cup of toch niet
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Waarom Kaldi
